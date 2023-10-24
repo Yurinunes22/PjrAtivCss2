@@ -1,0 +1,40 @@
+body{
+    margin: 30px 40px 0px 40px;
+    
+    
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    color: #764e36;
+ border-style: solid;
+ border-color: #764e36;
+ border-width: 2px 0px 2px 0px;
+
+}
+h2{
+    color: white;
+    font-weight: bolder;
+    padding: 6px;
+    background-color: #764e36;
+    font-size: 20px;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+font-size: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-top: 30px;
+}
+
+img{
+    padding: 20px;
+    background-color: white;
+    border:  3px solid #764e36 ;
+
+    
+    
+}
